@@ -36,6 +36,6 @@
 <p align="left">Схема підключення контролера</p>
 
 <p align="left">
-  <img src="simple-receiver.png" alt="Схема підключення приймача" width="400"/>
+  <img src="RX/receiver.png" alt="Схема підключення приймача" width="400"/>
 </p>
 <p align="left">Схема підключення приймача</p>
